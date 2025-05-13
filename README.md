@@ -1,5 +1,10 @@
-git clone https://github.com/your-username/your-repo-name.git cd your-repo-name
-# demo-website
-git add . 
-git commit -m "Initial commit"
-git push orgini main 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is my first web page.</p>
+</body>
+</html>
